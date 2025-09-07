@@ -1,14 +1,14 @@
-# 📊 A/B Test Analysis
+# A/B Test Analysis
 
 Analyze the results of **A/B testing** using statistical methods in **Python** and create a visualization that shows key conversion metrics.
 
 ---
-## 📂 Dataset
+## Dataset
 The dataset used in this project is available in Google Sheets:  
 [Open Dataset](https://docs.google.com/spreadsheets/d/1Ba4Q8sgVNi4J1Fi1xbCCSyrpBcNw96F_CPLxoy6CGLg/edit?usp=sharing)
 
 
-## 🧪 Step 1. Calculate Statistical Significance
+## Step 1. Calculate Statistical Significance
 In the A/B testing module, statistical significance was previously analyzed using online calculators, which is not very convenient.  
 The first and most important step is to refine the calculation of statistical significance using a **Python script**.
 
@@ -27,9 +27,9 @@ The significance was calculated:
 
 ---
 
-## 📊 Step 2. Visualization in Tableau
+## Step 2. Visualization in Tableau
 The results were visualized in **Tableau**, with key conversion metrics uploaded to the dashboard for interactive exploration.
 
-👉 [My Tableau Dashboard](https://public.tableau.com/app/profile/viktoriia.serozhenko6318/viz/ABTest_17552153375840/AB_Test)
+[My Tableau Dashboard](https://public.tableau.com/app/profile/viktoriia.serozhenko6318/viz/ABTest_17552153375840/AB_Test)
 
 ---
