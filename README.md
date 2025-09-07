@@ -3,6 +3,10 @@
 Analyze the results of **A/B testing** using statistical methods in **Python** and create a visualization that shows key conversion metrics.
 
 ---
+## 📂 Dataset
+The dataset used in this project is available in Google Sheets:  
+[Open Dataset]([https://docs.google.com/spreadsheets/d/1ABC123xyz456/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Ba4Q8sgVNi4J1Fi1xbCCSyrpBcNw96F_CPLxoy6CGLg/edit?usp=sharing))
+
 
 ## 🧪 Step 1. Calculate Statistical Significance
 In the A/B testing module, statistical significance was previously analyzed using online calculators, which is not very convenient.  
