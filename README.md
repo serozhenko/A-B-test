@@ -26,6 +26,6 @@ The significance was calculated:
 ## 📊 Step 2. Visualization in Tableau
 The results were visualized in **Tableau**, with key conversion metrics uploaded to the dashboard for interactive exploration.
 
-👉 *Link to Tableau Dashboard will be added here*  
+👉 *[My Tableau Dashboard]([https://public.tableau.com/](https://public.tableau.com/app/profile/viktoriia.serozhenko6318/viz/ABTest_17552153375840/AB_Test))*  
 
 ---
