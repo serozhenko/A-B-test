@@ -9,10 +9,9 @@ The dataset used in this project is available in Google Sheets:
 
 
 ## Step 1. Calculate Statistical Significance
-In the A/B testing module, statistical significance was previously analyzed using online calculators, which is not very convenient.  
-The first and most important step is to refine the calculation of statistical significance using a **Python script**.
+The first and most important step is to improve the calculation of statistical significance using a **Python script**.
 
-For analysis, we used a dataset and created a notebook in **Google Colab** to calculate the statistical significance for four metrics:
+For analysis, was used a dataset and created a notebook in **Google Colab** to calculate the statistical significance for four metrics:
 
 - `add_payment_info / session`  
 - `add_shipping_info / session`  
